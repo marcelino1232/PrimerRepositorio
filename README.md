@@ -1,0 +1,2 @@
+# PrimerRepositorio
+practica table generica
